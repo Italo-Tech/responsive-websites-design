@@ -1,14 +1,17 @@
 # Suzuki Bike Landing Page
 Acesse: <a href="https://responsive-websites-design.vercel.app/">Suzuki</a>
 
-<img src="images/print-1.png" alt="print-1">
+<div style="display: flex; gap: 15px">
+    <img src="images/print-1.png" alt="print-1" style="height: 350px">
+    <img src="images/print-mobile.png" alt="print-1" style="height: 350px">
+</div>
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto está concluído.
 
 - [x] Desktop
-- [ ] Mobile
+- [x] Mobile
 
 ## 👨🏻‍💻 Desenvolvedor
 

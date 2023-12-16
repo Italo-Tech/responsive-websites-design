@@ -1,4 +1,4 @@
-# Design Websites Responsivos
+# Design de Websites Responsivos
 
 > Projeto destinado à prática no desenvolvimento de websites responsivos de forma rápida e otimizada.
 > Todos os websites estão setorizados em pastas, escolha um e deixe uma crítica contrutiva sobre o que achou. 
@@ -7,7 +7,7 @@
 
 O projeto ainda está em desenvolvimento mas clique nos projetos atuais e verifique-os na web.
 
-- [ ] <a href="https://responsive-websites-design.vercel.app/">Suzuki</a>
+- [x] <a href="https://responsive-websites-design.vercel.app/">Suzuki</a>
 
 ## 🚀 Instalando design-websites-responsivos
 
