@@ -5,9 +5,9 @@
 
 ## 💻 Projetos realizados
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto ainda está em desenvolvimento mas clique nos projetos atuais e verifique-os na web.
 
-- [ ] Suzuki
+- [ ] <a href="https://responsive-websites-design.vercel.app/">Suzuki</a>
 
 ## 🚀 Instalando design-websites-responsivos
 
