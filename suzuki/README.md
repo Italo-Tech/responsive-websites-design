@@ -1,21 +1,14 @@
-# Design Websites Responsivos
+# Suzuki Bike Landing Page
+Acesse: <a href="https://responsive-websites-design.vercel.app/">Suzuki</a>
 
-> Projeto destinado à prática no desenvolvimento de websites responsivos de forma rápida e otimizada.
-> Todos os websites estão setorizados em pastas, escolha um e deixe uma crítica contrutiva sobre o que achou. 
+<img src="images/print-1.png" alt="print-1">
 
-## 💻 Projetos realizados
+### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento mas clique nos projetos atuais e verifique-os na web.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] <a href="https://responsive-websites-design.vercel.app/">Suzuki</a>
-
-## 🚀 Instalando design-websites-responsivos
-
-Caso queira reproduzir em sua máquina, siga os seguintes passo.
-
-- Clone o projeto em sua máquina.
-- Não será necessário até o atual momento instalar pacotes. 
-- Abra o projeto em seu navegador de preferência.
+- [x] Desktop
+- [ ] Mobile
 
 ## 👨🏻‍💻 Desenvolvedor
 
@@ -36,4 +29,3 @@ Caso queira reproduzir em sua máquina, siga os seguintes passo.
     </td>
   </tr>
 </table>
-
