@@ -12,10 +12,18 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 👨🏻‍💻 Desenvolvedor
 
-![https://www.linkedin.com/in/italo-tech/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://github.com/Italo-Tech](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![https://liondev.com.br/](https://img.shields.io/badge/LionDev-F59812?style=for-the-badge&logo=dev.to&logoColor=white)
-![https://codepen.io/ItaloTech](https://img.shields.io/badge/Codepen-100000?style=for-the-badge&logo=codepen&logoColor=white)
+<a target="_blank" href="https://www.linkedin.com/in/italo-tech/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a target="_blank" href="https://github.com/Italo-Tech">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a target="_blank" href="https://liondev.com.br/">
+    <img src="https://img.shields.io/badge/LionDev-F59812?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
+<a target="_blank" href="https://codepen.io/ItaloTech">
+    <img src="https://img.shields.io/badge/Codepen-100000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
 
 <table>
   <tr>
