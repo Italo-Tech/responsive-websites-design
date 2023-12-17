@@ -8,6 +8,7 @@
 O projeto ainda está em desenvolvimento mas clique nos projetos atuais e verifique-os na web.
 
 - [x] <a href="https://responsive-websites-design.vercel.app/">Suzuki</a>
+- [x] <a href="href="https://responsive-websites-design-87r4.vercel.app/">Travel Epic</a>
 
 ## 🚀 Instalando design-websites-responsivos
 
